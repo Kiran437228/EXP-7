@@ -25,8 +25,8 @@ Step 3: Settlement and Price Learning
 Every completed transaction updates the price learning algorithm to refine future pricing decisions.
 
 ## Program:
-### Name : Dharshni V M
-### Register Number : 212223240029
+### Name : KIRAN KUMAR CS
+### Register Number : 212224240076
 ```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
